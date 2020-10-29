@@ -1,6 +1,3 @@
-## From my talk  "Controlling your race with Micrometer, Spring Boot and Cloud Foundry"
-[![IMAGE ALT TEXT HERE](https://image.slidesharecdn.com/jconmicrometer-201029175354/95/monitoring-your-spring-boot-and-micronaut-microservices-with-micrometer-1-638.jpg)](https://www.youtube.com/watch?v=UNszkYpaMZc)
-
 ### Slides <br>
 [![IMAGE ALT TEXT HERE](https://image.slidesharecdn.com/jconmicrometer-201029175354/95/monitoring-your-spring-boot-and-micronaut-microservices-with-micrometer-1-638.jpg?)](https://www.slideshare.net/KoTurk/monitoring-your-spring-boot-and-micronaut-microservices-with-micrometer)
 
